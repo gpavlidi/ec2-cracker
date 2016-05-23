@@ -1,0 +1,6 @@
+*~
+*.swp
+.vagrant*
+*.DS_Store
+notes
+keys.sh

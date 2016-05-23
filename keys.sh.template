@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Your AWS keys
+AWS_ACCESS_KEY_ID=XXXXXXXXXXXXXXXXXXXX
+AWS_SECRET_ACCESS_KEY=YYYYYYYYYYYYYYYYYYYYYYYYYY
+
+# Dropbox keys
+# dropbox uploader script configures the below on first run
+DROPBOX_APPKEY=xxxxxxxxxxxxx
+DROPBOX_APPSECRET=yyyyyyyyyyyyyyyy
+DROPBOX_OAUTH_ACCESS_TOKEN=zzzzzzzzzzzzzzzzzzz
+DROPBOX_OAUTH_ACCESS_TOKEN_SECRET=wwwwwwwwwwwwwww
